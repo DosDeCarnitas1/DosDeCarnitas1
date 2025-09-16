@@ -68,22 +68,19 @@
 <table align="center">
   <tr>
     <td align="center" width="300px">
-      <a href="https://genius-front.vercel.app/">
-        🎓  
+      <a href="https://genius-front.vercel.app/">  
         <img src="https://img.shields.io/badge/GENIUS-0BA675?style=for-the-badge&logo=vercel&logoColor=white" alt="GENIUS"/>
       </a>
       <p><i>Online learning platform with a complete management system for its users.</i></p>
     </td>
     <td align="center" width="300px">
-      <a href="https://lawfeed-front.vercel.app/">
-        ⚖️  
+      <a href="https://lawfeed-front.vercel.app/"> 
         <img src="https://img.shields.io/badge/LAWFEED-16665d?style=for-the-badge&logo=vercel&logoColor=white" alt="LAWFEED"/>
       </a>
       <p><i>Platform that connects clients with law firms specialized in commercial law.</i></p>
     </td>
     <td align="center" width="300px">
-      <a href="https://cosmos-web-nine.vercel.app/">
-        🗂️  
+      <a href="https://cosmos-web-nine.vercel.app/"> 
         <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="PORTFOLIO"/>
       </a>
       <p><i>Portfolio showcasing university projects and developments.</i></p>
@@ -122,6 +119,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DosDeCarnitas1.DosDeCarnitas1" alt="visitor badge"/>
 </p>
+
 
 
 
