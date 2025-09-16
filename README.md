@@ -63,13 +63,11 @@
 
 ---
 
----
-
 <h2 align="center">📂 Featured Projects</h2>
 
 <p align="center">
   <a href="https://genius-front.vercel.app/">
-    <img src="https://img.shields.io/badge/GENIUS-0BA675?style=for-the-badge&logo=vercel&logoColor=white" alt="GENIUS"/>
+    🎓 <img src="https://img.shields.io/badge/GENIUS-0BA675?style=for-the-badge&logo=vercel&logoColor=white" alt="GENIUS"/>
   </a>
   <br>
   <i>Plataforma de cursos en línea con un sistema de gestión completo para sus usuarios.</i>
@@ -77,7 +75,7 @@
 
 <p align="center">
   <a href="https://lawfeed-front.vercel.app/">
-    <img src="https://img.shields.io/badge/LAWFEED-16665d?style=for-the-badge&logo=vercel&logoColor=white" alt="LAWFEED"/>
+    ⚖️ <img src="https://img.shields.io/badge/LAWFEED-16665d?style=for-the-badge&logo=vercel&logoColor=white" alt="LAWFEED"/>
   </a>
   <br>
   <i>Plataforma que conecta clientes con bufetes especializados en el ámbito mercantil.</i>
@@ -85,13 +83,14 @@
 
 <p align="center">
   <a href="https://cosmos-web-nine.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTAFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="PORTAFOLIO"/>
+    🗂️ <img src="https://img.shields.io/badge/PORTAFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="PORTAFOLIO"/>
   </a>
   <br>
   <i>Portafolio con proyectos universitarios.</i>
 </p>
 
 ---
+
 
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -120,4 +119,5 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DosDeCarnitas1.DosDeCarnitas1" alt="visitor badge"/>
 </p>
+
 
